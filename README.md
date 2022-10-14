@@ -10,7 +10,7 @@
 
 📫 How to reach me ... Don't. Just talk through Discord, I'm more active there: 私の名前わビビです💜#4390 (trust me, I'm not a Weaboo);
 
-📇 I'm also at [Replit](https://replit.com/@AppleBoy1);
+📇 I'm also at [Replit](https://replit.com/@AppleBoy1), [LinkedIn](https://replit.com/@AppleBoy1);
 
 <div align="center">Alright, now get out of here</div>
 
