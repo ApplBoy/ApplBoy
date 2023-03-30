@@ -45,7 +45,7 @@ How to reach me ... Don't. Just talk through Discord, I'm more active there: 私
 
 📇 
 
-I'm also at [`Replit`](https://replit.com/@AppleBoy1), [`LinkedIn`](https://www.linkedin.com/in/appl-boy);
+I'm also at [`Replit`](https://replit.com/@AppleBoy1);
 
 <h1 align="center">Alright, now get out of here</h1>
 
