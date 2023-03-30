@@ -5,6 +5,23 @@
 Apple Boy
 🍎:~/ $ █
 ```
+<details>
+ <summary>Click to see my Stats</summary>
+
+ <div align="center">
+  <picture>
+   <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ApplBoy&hide=issues&theme=transparent"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=ApplBoy&hide=issues&theme=transparent"/>
+  </picture>
+ 
+  <picture>
+   <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ApplBoy&layout=compact&theme=transparent"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApplBoy&layout=compact&theme=transparent"/>
+  </picture>
+ </div>
+</details>
 
 ---
 
