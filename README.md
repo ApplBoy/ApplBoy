@@ -49,4 +49,6 @@ I'm also at [`Replit`](https://replit.com/@AppleBoy1), [`LinkedIn`](https://www.
 
 <h1 align="center">Alright, now get out of here</h1>
 
-<img src="./footer.svg" align="center"/>
+<div align="center">
+ <img src="./footer.svg" width="30%"/>
+</div>
