@@ -49,4 +49,4 @@ I'm also at [`Replit`](https://replit.com/@AppleBoy1), [`LinkedIn`](https://www.
 
 <h1 align="center">Alright, now get out of here</h1>
 
-![@myself](./footer.svg)
+<img src="./footer.svg" align="center"/>
