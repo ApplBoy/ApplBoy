@@ -54,7 +54,7 @@ I can code on these languages:
 
 ### What I want to do?
 
-Those are on my list for some time already (or that I can't say that I really know):
+Those are on my list for some time already (or if I can't say that I really know):
 
 <div width="50%">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
@@ -107,7 +107,7 @@ ${\color{green}\text{> Learning}}$
 
 ### How to reach me...
 
-Don't. Just talk through Discord, I'm more active there: 私の名前わビビです💜#4390 (m8, I'm not a Weaboo);
+Don't. Just talk through Discord, I'm more active there: `私の名前わビビです💜#4390` (m8, I'm not a Weaboo);
 
 📇 
 
