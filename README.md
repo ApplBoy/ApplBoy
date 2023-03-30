@@ -1,17 +1,52 @@
-# 'Bout Me
+# 👋 'Bout Me
 
-👋 Sup, I’m @ApplBoy, I've had my moments of infamy, but I'm keeping it low _(Twitter)_;
+```bash
+🍎:~/ $ echo $USER
+Apple Boy
+🍎:~/ $
+```
 
-👀 I’m interested in Vidya Gaems, Art, Mangaka (not a Weaboo, just a degenerate), freakin codin, AI, and TRPG;
+---
 
-🌱 I’m currently learning Java, JS, Python, C++, C, and others;
+👀
 
-🎓 On College;
+Luv' my ~/.
 
-📫 How to reach me ... Don't. Just talk through Discord, I'm more active there: 私の名前わビビです💜#4390 (trust me, I'm not a Weaboo);
+I don't like Apple™ tho.
 
-📇 I'm also at [`Replit`](https://replit.com/@AppleBoy1), [`LinkedIn`](https://www.linkedin.com/in/appl-boy);
+---
 
-<div align="center">Alright, now get out of here</div>
+🌱
+
+What can I do?
+ - C (Luv' it)
+ - C++
+ - C#
+ - Java
+ - JavaScript
+ - TypeScript
+ - PHP
+ - Python
+ - HTML/CSS
+
+---
+
+🎓 
+
+On College;
+
+Learning...
+
+---
+
+📫 
+
+How to reach me ... Don't. Just talk through Discord, I'm more active there: 私の名前わビビです💜#4390 (m8, I'm not a Weaboo);
+
+📇 
+
+I'm also at [`Replit`](https://replit.com/@AppleBoy1), [`LinkedIn`](https://www.linkedin.com/in/appl-boy);
+
+<h1 align="center">Alright, now get out of here</h1>
 
 ![@myself](./footer.svg)
