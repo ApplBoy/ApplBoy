@@ -4,7 +4,7 @@
 
 👀 I’m interested in Vidya Gaems, Art, Mangaka (not a Weaboo, just a degenerate), freakin codin, AI, and TRPG;
 
-🌱 I’m currently learning Java, JS, Python, C++, C (GTK), and others;
+🌱 I’m currently learning Java, JS, Python, C++, C, and others;
 
 🎓 On College;
 
@@ -14,6 +14,4 @@
 
 <div align="center">Alright, now get out of here</div>
 
-<p align="center">
-  <img src="https://thumbs.gfycat.com/OfficialSkeletalArrowcrab-max-1mb.gif" alt="Lil' Image">
-</p>
+![@myself](./footer.svg)
