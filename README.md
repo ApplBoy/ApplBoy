@@ -3,7 +3,7 @@
 ```bash
 🍎:~/ $ echo $USER
 Apple Boy
-🍎:~/ $
+🍎:~/ $ █
 ```
 
 ---
@@ -35,7 +35,7 @@ What can I do?
 
 On College;
 
-Learning...
+${\color{green}\text{> Learning}}$
 
 ---
 
