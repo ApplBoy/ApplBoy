@@ -89,7 +89,7 @@ _Wew, what a big list I have here._
 ### The only tools I really need:
 
 <div>
- <img  src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim"/><br>
+ <img  src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim"/>
  <img  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"<br>
 </div>
 
