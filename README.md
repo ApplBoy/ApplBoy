@@ -27,7 +27,7 @@ Apple Boy
 
 👀
 
-### Luv' my ~/.
+### Luv' my Unix Terminal.
 
 I don't like Apple™ tho.
 
