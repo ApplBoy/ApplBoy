@@ -5,7 +5,7 @@
 ApplBoy
 🍎:~/ $ █
 ```
-<i>ps: don't mistake me from <a href="https://github.com/AppleBoy">Bo-Yi Wu</a></i><br>
+_ps: don't mistake me from [Bo-Yi Wu](https://github.com/AppleBoy)_<br>
 
 <details>
  <summary>Click to see my Stats</summary>
@@ -156,7 +156,7 @@ Those are on my list for some time already (or if I can't say that I really know
  </a>
 </div>
 
-_Wew, what a big list I have here._
+_Wew, what a big list I have here._ <br> _And as you can see, most of them have many similarities_
 
 ---
 
