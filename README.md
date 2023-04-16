@@ -120,5 +120,6 @@ Don't. Just talk through Discord, I'm more active there: `私の名前わビビ�
 <h1 align="center">Alright, now get out of here</h1>
 
 <div align="center">
+ <i>ps: don't mistake me from <a href="https://github.com/AppleBoy">Bo-Yi Wu</a></i><br>
  <img src="./footer.svg" width="30%"/>
 </div>
