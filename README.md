@@ -149,13 +149,46 @@ The thing isn't just about the big array of langs, I do want to master C, but th
 
 ### The only tools I really need:
 
-<div>
+<div align="left">
+ <table>
+  <tr>
+    <td>
+    <div <div align="left">
+
+    
+<div align="center">
  <a href="https://neovim.io/">
   <img align="top" height="25"  src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim"/>
  </a>
  <a href="https://www.kernel.org/">
   <img align="top" height="25"  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
- </a><br>
+ </a><br><br>
+</div>
+
+```
+         -/oyddmdhs+:.
+     -odNMMMMMMMMNNmhy+-`
+   -yNMMMMMMMMMMMNNNmmdhy+-
+ `omMMMMMMMMMMMMNmdmmmmddhhy/`
+ omMMMMMMMMMMMNhhccyohmdddhhhdo`
+.ydMMMMMMMMMMdhs.  ,/smdddhhhhdm+`
+ oyhdmNMMMMMMMNdyooydmddddhhhhyhNd.
+  :oyhhdNNMMMMMMMNNNmmdddhhhhhyymMh
+    .:+sydNMMMMMNNNmmmdddhhhhhhmMmy
+       /mMMMMMMNNNmmmdddhhhhhmMNhs:
+    `oNMMMMMMMNNNmmmddddhhdmMNhs+`
+  `sNMMMMMMMMNNNmmmdddddmNMmhs/.
+ /NMMMMMMMMNNNNmmmdddmNMNdso:`
++MMMMMMMNNNNNmmmmdmNMNdso/-
+yMMNNNNNNNmmmmmNNMmhs+/-`
+/hMMNNNNNNNNMNdhs++/-`
+`/ohdmmddhys+++/:.`     🐮 Gentoo
+  `-//////:--.
+```
+</div>
+</td>
+  </tr>
+</table>
 </div>
 
 ---
