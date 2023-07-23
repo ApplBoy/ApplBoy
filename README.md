@@ -5,7 +5,7 @@
 ApplBoy
 🍎:~/ $ █
 ```
-_Not [Bo-Yi Wu](https://github.com/AppleBoy)_<br>
+_Not to be confused with [Bo-Yi Wu](https://github.com/AppleBoy)_<br>
 
 ---
 
@@ -29,6 +29,9 @@ I like apples, not Apple™.
   <li><a href="https://www.amazon.com.br/Programming-Language-Brian-W-Kernighan/dp/0131103628">
    <img align="top" height="25" align="top" height="25" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   </a> // ❤ it<br>
+  <li><a href="https://dlang.org/">
+   <img align="top" height="25" src="https://img.shields.io/badge/D-CC342D?style=for-the-badge&logo=d&logoColor=white" alt="D"/>
+  </a> // I'm a simple guy: if it looks like C, I'll look into it<br>
   <li><a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
    <img align="top" height="25" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   </a> // Good enough<br>
@@ -38,9 +41,15 @@ I like apples, not Apple™.
   <li><a href="https://www.oracle.com/pls/topic/lookup?ctx=en/java/javase&id=javaselatest">
    <img align="top" height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   </a> // Too much boilerplate<br>
+  <li><a href="https://www.mysql.com/">
+   <img align="top" height="25" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  </a> // Big text file saver<br>
   <li><a href="https://www.python.org/">
    <img align="top" height="25" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
-  </a> # Zen
+  </a> # Zen<br>
+  <li><a href="https://mariadb.org/">
+   <img align="top" height="25" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+  </a> // Open-source MySQL!
  </ul>
  <br>
  And the so called Webdev trio + PHP (Don't really like HTML5/CSS, but oh well)
@@ -79,9 +88,6 @@ Those are on my list for some time already (or if I can't say that I really know
   <li><a href="https://angular.io/">
    <img align="top" height="25" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   </a> // Google's React<br>
-  <li><a href="https://mariadb.org/">
-   <img align="top" height="25" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
-  </a> // Open-source MySQL!<br>
   <li><a href="https://www.haskell.org/">
    <img align="top" height="25" src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell"/>
   </a> // Main language for Function Paradigm<br>
@@ -100,9 +106,6 @@ Those are on my list for some time already (or if I can't say that I really know
   <li><a href="https://vuejs.org/">
    <img align="top" height="25" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue"/>
   </a> // Another one<br>
-  <li><a href="https://www.mysql.com/">
-   <img align="top" height="25" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  </a> // Big text file saver<br>
   <li><a href="https://elixir-lang.org/">
    <img align="top" height="25" src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir"/>
   </a> // Functional?<br>
@@ -136,13 +139,11 @@ Those are on my list for some time already (or if I can't say that I really know
   <li><a href="https://go.dev/">
    <img align="top" height="25" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   </a> // Google<br>
-  <li><a href="https://dlang.org/">
-   <img align="top" height="25" src="https://img.shields.io/badge/D-CC342D?style=for-the-badge&logo=d&logoColor=white" alt="D"/>
-  </a> // I'm a simple guy: if it looks like C, I'll look into it<br>
  </ul>
 </div>
 
-_Wew, what a big list I have here._
+_Wew, what a big list I have here._<br>
+The thing isn't just about the big array of langs, I do want to master C, but that shouldn't be the end for it.
 
 ---
 
@@ -171,7 +172,7 @@ ${\color{green}\text{> Learning}}$
 
 ### How to reach me...
 
-Don't. Just talk through Discord, I'm more active there: `私の名前わビビです🩶#4390` (I think that not UTF symbol should work);
+Don't. Just talk through Discord, I'm more active there: `私の名前わビビです🩶#4390` (Well UTF is a lil' buggy);
 
 📇 
 
