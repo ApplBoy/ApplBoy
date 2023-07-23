@@ -19,7 +19,7 @@ I like apples, not Apple™.
 
 🌱
 
-### What I want to do?
+### What I do?
 
 <div>
  <ul>
