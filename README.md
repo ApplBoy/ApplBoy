@@ -205,7 +205,7 @@ ${\color{green}\text{> Learning}}$
 
 ### How to reach me...
 
-Don't. Just talk through Discord, I'm more active there: `[私の名前わビビです🩶#4390](https://www.discordapp.com/users/437034440791687168)` (Well UTF is a lil' buggy);
+Don't. Just talk through Discord, I'm more active there: [`私の名前わビビです🩶#4390`](https://www.discordapp.com/users/437034440791687168) (Well UTF is a lil' buggy);
 
 📇 
 
