@@ -41,15 +41,21 @@ I like apples, not Apple™.
   <li><a href="https://www.oracle.com/pls/topic/lookup?ctx=en/java/javase&id=javaselatest">
    <img align="top" height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   </a> // Too much boilerplate<br>
+  <li><a href="https://www.ruby-lang.org/">
+   <img align="top" height="25" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
+  </a> # Way easier than what I've thought.<br>
+  <li><a href="https://legacy.reactjs.org/">
+   <img align="top" height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  </a> // Yeah, I use it (proceeds to <code>appendChild</code>)<br>
   <li><a href="https://www.mysql.com/">
    <img align="top" height="25" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  </a> // Big text file saver<br>
+  </a> -- Big text file saver<br>
   <li><a href="https://www.python.org/">
    <img align="top" height="25" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
   </a> # Zen<br>
   <li><a href="https://mariadb.org/">
    <img align="top" height="25" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
-  </a> // Open-source MySQL!
+  </a> -- Open-source MySQL!
  </ul>
  <br>
  And the so called Webdev trio + PHP (Don't really like HTML5/CSS, but oh well)
@@ -63,7 +69,7 @@ I like apples, not Apple™.
   </a> // Eh, good<br>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
    <img align="top" height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  </a> // Doesn't give errors, it has that<br>
+  </a> &lt!-- Doesn't give errors, it has that --><br>
   <li><a href="https://javascript.info/">
    <img align="top" height="25" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
   </a> // Good for scripts... Undefined for everything else<br>
@@ -112,15 +118,9 @@ Those are on my list for some time already (or if I can't say that I really know
   <li><a href="https://www.swift.org/documentation/">
    <img align="top" height="25" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
   </a> // Apple™<br>
-  <li><a href="https://legacy.reactjs.org/">
-   <img align="top" height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  </a> // Facebook's JS<br>
   <li><a href="https://julialang.org/">
    <img align="top" height="25" src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia"/>
   </a> // For Science!<br>
-  <li><a href="https://www.ruby-lang.org/">
-   <img align="top" height="25" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
-  </a> // Reads like real books.<br>
   <li><a href="https://www.rust-lang.org/">
    <img align="top" height="25" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" alt="Rust"/>
   </a> // Not hyped, but looks fine<br>
