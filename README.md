@@ -35,9 +35,12 @@ I like apples, not Apple™.
   <li><a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
    <img align="top" height="25" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   </a> // Good enough<br>
+  <li><a href="https://go.dev/">
+   <img align="top" height="25" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  </a> // Google's C, it's ok<br>
   <li><a href="https://www.lua.org/">
    <img align="top" height="25" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
-  </a> // JIT F#cking Fast<br>
+  </a> -- JIT F#cking Fast<br>
   <li><a href="https://www.amazon.com.br/C-Programming-Language-Bjarne-Stroustrup/dp/0321563840">
    <img align="top" height="25" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   </a> // Task: Read C++ code (Impossible)<br>
@@ -136,9 +139,6 @@ Those are on my list for some time already (or if I can't say that I really know
   <li><a href="https://ziglang.org/">
    <img align="top" height="25" src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white" alt="Zig"/>
   </a> // Rust+C?<br>
-  <li><a href="https://go.dev/">
-   <img align="top" height="25" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  </a> // Google<br>
  </ul>
 </div>
 
