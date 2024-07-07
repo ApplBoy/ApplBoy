@@ -81,7 +81,7 @@ The thing isn't just about the big array of langs, I do want to master C, but th
 
 ### The only tools I really need:
 
-<div align="left">
+<div align="center">
  <table>
   <tr>
     <td>
@@ -89,15 +89,12 @@ The thing isn't just about the big array of langs, I do want to master C, but th
 
     
 <div align="center">
- <a href="https://neovim.io/">
   <img align="top" height="25"  src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim"/>
- </a>
- <a href="https://www.kernel.org/">
-  <img align="top" height="25"  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
- </a><br><br>
+  <img align="top" height="25"  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/><br/><br/>
 </div>
 
-```
+<pre>
+<code>
          -/oyddmdhs+:.
      -odNMMMMMMMMNNmhy+-`
    -yNMMMMMMMMMMMNNNmmdhy+-
@@ -116,7 +113,8 @@ yMMNNNNNNNmmmmmNNMmhs+/-`
 /hMMNNNNNNNNMNdhs++/-`
 `/ohdmmddhys+++/:.`     🐮 Gentoo
   `-//////:--.
-```
+</code>
+</pre>
 </div>
 </td>
   </tr>
