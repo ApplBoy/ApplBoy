@@ -145,6 +145,10 @@ Don't. But you can send me an [Email](mailto:saulojosesilva030@gmail.com).
 
 [`Replit`](https://replit.com/@AppleBoy1);
 
+---
+
+<h4 align="center">Maybe one day I'll push all of my embarrassing codebase.</h4>
+
 <h1 align="center">Alright, now get out of here</h1>
 
 <div align="center">
